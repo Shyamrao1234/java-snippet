@@ -3,7 +3,7 @@
 Welcome to my developer portfolio! This README showcases my skills and the technologies I've worked with. Feel free to explore and get to know more about my work and experience.
 
 <div align="right">
-  <img src="https://example.com/hacker-typing.jpg" alt="Hacker Typing on Computer" width="300" />
+  <img src="https://example.com/hacker-typing.jpg" alt="Hacker Typing on Computer" width="200" />
 </div>
 
 ## 📌 About Me
