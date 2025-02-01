@@ -33,9 +33,6 @@ Description: A web application that allows users to manage tasks and track their
 **Technologies Used**: Scala, MongoDB, Play Framework  
 Description: A scalable application to process large datasets in real-time using Scala. Data is stored in MongoDB to provide high performance and flexibility.
 
-### 📂 [Project Name 3](https://github.com/yourusername/project3)
-**Technologies Used**: JavaScript, HTML, CSS  
-Description: A dynamic website built with HTML, CSS, and JavaScript that showcases various front-end technologies and animations.
 
 ## ⚙️ Work Experience
 
